@@ -1,4 +1,4 @@
-# Contact Contact App Description
+# Contact App Description
 
 This is a sample API project that allows the user to create a simple contact list.
 
@@ -82,5 +82,5 @@ Next up:
 
 * Tests - yes, I know this should have been done all along.
 * Better error handling.
-* Authenication.
+* Authentication.
 * Convert to Typescript.
