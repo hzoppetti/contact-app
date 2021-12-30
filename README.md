@@ -3,8 +3,11 @@
 This is a sample API project that allows the user to create a simple contact list.
 
 ### Prerequisites
-This app needs the client React application contact-client as well as a
-PostgreSQL database connection.
+This app needs:
+
+* [Node](https://nodejs.org/en/download/)
+* The client application [contact-client](https://github.com/hzoppetti/contact-client)
+* A PostgreSQL database connection
 
 ## Quick Setup
 
